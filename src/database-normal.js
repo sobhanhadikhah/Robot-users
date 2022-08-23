@@ -1,4 +1,5 @@
-export const Users_Face = [
+//import React from "react"
+ export const Users_Face = [
     {   id:0,
         name:'sobhan',
         username: 'sina',
@@ -44,5 +45,10 @@ export const Users_Face = [
         name:'mmd',
         username: 'sina',
         email:'example@gmail.com'
+    },
+    {   id:666,
+        name:'arash',
+        username: 'arashian',
+        email:'hell666@gmail.com'
     },
 ]
